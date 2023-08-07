@@ -8,6 +8,7 @@
 Proyecto realizo para el trabajo de grado de "Efecto del algoritmo de ajuste dinámico de dificultad en el compromiso y desempeño de los usuarios de un juego en realidad aumentada de disparo en primera persona"
 
 ## Estado del proyecto
+
 <h4 align="center">
 :construction: Proyecto en construcción :construction:
 </h4>
@@ -18,7 +19,7 @@ Proyecto realizo para el trabajo de grado de "Efecto del algoritmo de ajuste din
 
 ## Tecnologías utilizadas
 
-* [<sub>Vuforia Engine</sub>](https://developer.vuforia.com/)
+* <p>[<sub>Vuforia Engine</sub>](https://developer.vuforia.com/)</p>
 * ARCore
 
 ## Desarrolladores del proyecto
