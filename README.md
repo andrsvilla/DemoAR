@@ -1,5 +1,7 @@
 <h1 align="center"> Invasion*Victory AR </h1>
- 
+
+<p align="left"><img src="https://github.com/andrsvilla/DemoAR/assets/72285096/8fced820-d748-4f04-b0f2-f77d303eefb0" width=300></p>
+
 ![Logo](https://github.com/andrsvilla/DemoAR/assets/72285096/8fced820-d748-4f04-b0f2-f77d303eefb0)
 
 ## Descripción del proyecto
