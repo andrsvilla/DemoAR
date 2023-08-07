@@ -5,7 +5,7 @@
 
 ## Descripción del proyecto
 
-Proyecto realizo para el trabajo de grado de "Efecto del algoritmo de ajuste dinámico de dificultad en el compromiso y desempeño de los usuarios de un juego en realidad aumentada de disparo en primera persona"
+Proyecto realizado para el trabajo de grado de "Efecto del algoritmo de ajuste dinámico de dificultad en el compromiso y desempeño de los usuarios de un juego en realidad aumentada de disparo en primera persona"
 
 ## Estado del proyecto
 
