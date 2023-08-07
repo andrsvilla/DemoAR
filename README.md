@@ -9,7 +9,7 @@ Este proyecto fue desarrollado en el trabajo de pregrado titulado "Efecto del al
 
 ## Estado del proyecto
 
-<h4 align="center">:checkered_flag: Proyecto en construcción :checkered_flag:</h4>
+<h4 align="center">:checkered_flag: Proyecto Finalizado :checkered_flag:</h4>
 
 ## Características de la aplicación y demostración
 
