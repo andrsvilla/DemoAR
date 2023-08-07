@@ -11,8 +11,11 @@ Este proyecto fue desarrollado en el trabajo de pregrado titulado "Efecto del al
 
 <h4 align="center">:checkered_flag: Proyecto Finalizado :checkered_flag:</h4>
 
-## Características de la aplicación y demostración
+## Características de la aplicación
 
+La versión actual cuenta con tres algoritmos estadisticos (Random Forest, Support Vector y Artificial Neuronal Network), que ajustan la dificultad del jugador de acuerdo a la partida anterior.
+
+En la historia del juego propuesto, los seres humanos nunca estuvieron seguros de la existencia de vida en otros planetas, hasta el d ́ıa en que misteriosos portales aparecieron por todo el mundo, de donde surgieron extra  ̃nas naves espaciales con la  ́unica misi  ́on de destruirlos. En menos de un mes, aplastaron las fuerzas militares de la humanidad y desde entonces, cada persona defiende su propio hogar
 
 
 ## Tecnologías utilizadas
