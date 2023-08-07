@@ -19,12 +19,12 @@ Proyecto realizo para el trabajo de grado de "Efecto del algoritmo de ajuste din
 
 ## Tecnologías utilizadas
 
-* [<sub>Vuforia Engine</sub>](https://developer.vuforia.com/)
+* [Vuforia Engine](https://developer.vuforia.com/)
 * ARCore
 
 ## Desarrolladores del proyecto
 
 
-| [<img src="https://avatars.githubusercontent.com/u/100704756?v=4" width=115><br><sub>Ricardo Campo</sub>](https://github.com/ricardocampo) |  [<img src="https://avatars.githubusercontent.com/u/72285096?v=4" width=115><br><sub>Andres Villaquiran</sub>](https://github.com/andrsvilla) |  [<img src="https://avatars.githubusercontent.com/u/78390593?v=4" width=115><br><sub>Carlos Felipe Rengifo</sub>](https://github.com/carlosfeliperengifo) |  [<img src="https://avatars.githubusercontent.com/u/46612636?v=4" width=115><br><sub>Diego Guzmán</sub>](https://github.com/diegoeguz90) |
+| [<img src="https://avatars.githubusercontent.com/u/91504918?v=4" width=115><br><sub>Ricardo Campo</sub>](https://github.com/RikardoKampo) |  [<img src="https://avatars.githubusercontent.com/u/72285096?v=4" width=115><br><sub>Andres Villaquiran</sub>](https://github.com/andrsvilla) |  [<img src="https://avatars.githubusercontent.com/u/78390593?v=4" width=115><br><sub>Carlos Felipe Rengifo</sub>](https://github.com/carlosfeliperengifo) |  [<img src="https://avatars.githubusercontent.com/u/46612636?v=4" width=115><br><sub>Diego Guzmán</sub>](https://github.com/diegoeguz90) |
 | :---: | :---: | :---: | :---: |
 
