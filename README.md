@@ -15,11 +15,10 @@ Proyecto realizo para el trabajo de grado de "Efecto del algoritmo de ajuste din
 ## Características de la aplicación y demostración
 
 
-*[Acceso al proyecto](#acceso-proyecto)
 
 ## Tecnologías utilizadas
 
-* VUforia Engine
+* <sub>Vuforia Engine</sub>](https://developer.vuforia.com/)
 * ARCore
 
 ## Desarrolladores del proyecto
